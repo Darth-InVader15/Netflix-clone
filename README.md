@@ -6,4 +6,4 @@
  
  
  
-![Screenshot 2022-12-18 at 17 08 51 AM](https://github.com/Darth-InVader15/Netflix_clone/blob/main/netflix-clone/ss3.png)
+![Screenshot 2022-12-18 at 17 08 51](netflix-clone/ss3.png)
